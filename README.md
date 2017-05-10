@@ -1,2 +1,2 @@
-# fabflix
-movie rental web app
+# Anroid pop-quiz
+Pop quiz about movies
