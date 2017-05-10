@@ -1,0 +1,23 @@
+<resources>
+
+    <!-- activity_main.xml -->
+    <string name="app_name">122B Project 5</string>
+    <string name="title">122B Project 5: Movie Quiz</string>
+    <string name="takeQuizText">Take Quiz</string>
+    <string name="statsText">Statistics</string>
+    <string name="statsTitle">Statistics</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- quiz.xml -->
+    <string name="pause">Pause</string>
+    <string name="score">Score</string>
+    <string name="timer">Timer</string>
+    <string name="question">Question</string>
+    <string name="a">A</string>
+    <string name="b">B</string>
+    <string name="c">C</string>
+    <string name="d">D</string>
+    <string name="submit">Submit</string>
+
+
+</resources>
