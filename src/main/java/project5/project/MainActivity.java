@@ -13,6 +13,7 @@ import android.widget.Button;
 
 import java.text.DecimalFormat;
 
+//Change some text here
 public class MainActivity extends ActionBarActivity {
 
     static SharedPreferences settings = null;
